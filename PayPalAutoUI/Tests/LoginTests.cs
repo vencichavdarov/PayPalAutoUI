@@ -1,6 +1,4 @@
-﻿using Microsoft.VisualStudio.TestPlatform.ObjectModel;
-using PayPalAutoUI.Pages;
-using System;
+﻿using PayPalAutoUI.Pages;
 using PayPalAutoUI.Drivers;
 using System.Text.RegularExpressions;
 

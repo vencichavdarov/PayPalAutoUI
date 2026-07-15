@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PayPalAutoUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f1981a0c4d4819f21f26f8ca0d1a99136415b1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PayPalAutoUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PayPalAutoUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
